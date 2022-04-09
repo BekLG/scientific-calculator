@@ -2,7 +2,6 @@
 #include <math.h>
 using namespace std;
 
-
 double a,b;
 int z;
 void arthimetic(double, double);
@@ -212,3 +211,4 @@ void Baselog(float x)
 
 
 // github Beklg
+// this code is made for first year school project
